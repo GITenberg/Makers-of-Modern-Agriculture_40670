@@ -1,0 +1,33 @@
+_repo: Makers-of-Modern-Agriculture_40670
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40670-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Macdonald, William
+    gutenberg_agent_id: '40762'
+    url: http://www.gutenberg.org/2009/agents/40762
+description: ''
+gutenberg_issued: '2012-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sinclair, John, Sir, 1754-1835'
+- !lcsh 'Agriculturists -- Biography'
+- !lcsh 'Coke, Thomas William, Earl of Leicester, 1752-1842'
+- !lcsh 'McCormick, Cyrus Hall, 1809-1884'
+- !lcc 'S'
+- !lcsh 'Young, Arthur, 1741-1820'
+- !lcsh 'Tull, Jethro, 1674-1741'
+tableOfContents: 'Jethro Tull: founder of the principles of dry-farming -- Coke of
+  Norfolk: father of experimental farms -- Arthur Young: author of the agricultural
+  tour -- John Sinclair: founder of the Board of Agriculture -- Cyrus H. McCormick:
+  inventor of the reaper.'
+title: Makers of Modern Agriculture
+url: http://www.gutenberg.org/ebooks/40670
